@@ -2,7 +2,7 @@
   "name": "variable-type",
   "version": "1.0.0",
   "description": "Runtime type checking for variable and similar objects.",
-  "main": "dist/src/index.js",
+  "main": "index.js",
   "scripts": {
     "coverage": "jest --coverage",
     "test": "jest",
